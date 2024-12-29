@@ -64,3 +64,11 @@
     background-size: 30px;
     cursor: pointer;
 }
+#result{
+    font-size: 25px;
+    text-align: center;
+}
+#result span{
+    font-weight: 500;
+    color: #ffff76;
+}
