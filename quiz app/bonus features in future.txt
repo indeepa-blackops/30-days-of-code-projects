@@ -1,0 +1,7 @@
+Some possible features we could add:
+
+Timer for each question
+Progress bar showing quiz completion
+Animation effects for transitions
+Saving high scores in localStorage
+Randomizing question order

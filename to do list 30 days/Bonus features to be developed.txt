@@ -1,0 +1,5 @@
+in the next iteration of the task, 
+1. adding featurea
+	due dates,
+	priorities,
+	task categories
