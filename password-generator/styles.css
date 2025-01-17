@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 300px;
+    margin: 0 auto;
+    padding: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+button{
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.password-display{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
